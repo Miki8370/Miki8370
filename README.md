@@ -6,7 +6,7 @@
 
 ---
 
-<h1 align="center">⚡ GitHub Activity ⚡</h1>
+<h1 align="center">⚡ Heyy, Mike Here ⚡</h1>
 
 <p align="center">
   <i>"Small commits every day build great software."</i>
