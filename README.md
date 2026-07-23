@@ -1,3 +1,11 @@
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,typescript,javascript,react,nextjs,tailwind,postgres,docker,git,github,vscode,postman&perline=7" />
+</p>
+
+<br>
+
 <h1 align="center">⚡ GitHub Activity ⚡</h1>
 
 <p align="center">
