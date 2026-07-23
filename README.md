@@ -1,8 +1,4 @@
-<h1 align="center">⚡ GitHub Activity ⚡</h1>
-
-<p align="center">
-  <i>"Small commits every day build great software."</i>
-</p>
+<h2 align="center">🔥 My GitHub Streak</h2>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
